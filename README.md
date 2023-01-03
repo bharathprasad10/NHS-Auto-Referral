@@ -20,5 +20,6 @@ A dummy data set is created with diseases, symptoms and departments under the GP
 * F1 Score - F1 score determines how well each classes perfomed. As the count of "General Practisioner" class is higher compared to other classes, it is important to have the F1 scores of other classes high.
 * Recall - Recall value of the class "General Practisioner" should be high as the important patients must be directed to the general practisioner instead of other primary care departments
 
-##Distribution of the target feature
+## Distribution of the target feature
+![count_departments](https://user-images.githubusercontent.com/115481947/210444497-3f84ae5a-60de-4175-89fe-ef3b0b983393.jpg)
 
